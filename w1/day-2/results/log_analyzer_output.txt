@@ -1,0 +1,28 @@
+
+============================================================
+  W1-D2 Mini Log Analyzer
+  File: D:\Downloads\VS_WorkSpace\AWS\aiops\w1\day-2\data\HDFS_2k.log
+============================================================
+
+[1] Total log lines: 2000
+[2] Unique templates: 21
+
+[3] Top-5 Templates:
+  Rank  ID     Count    %        Template
+  ----- ------ -------- -------- ----------------------------------------
+  1     1      286      14.3     <*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketRespond...
+  2     2      286      14.3     <*> <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStor...
+  3     4      268      13.4     <*> <*> <*> INFO dfs.DataNode$DataXceiver: Receiving block <...
+  4     3      260      13.0     <*> <*> <*> INFO dfs.DataNode$PacketResponder: Received bloc...
+  5     7      260      13.0     <*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+
+[4] Template spike in last 1 hour vs historical average:
+  ID     Recent     Hist Mean    Z-Score    Template
+  ------ ---------- ------------ ---------- ----------------------------------------
+  16     9          1.25         6.19       081111 024443 29 INFO dfs.FSNamesystem: BLOCK* Nam
+
+[5] New templates not seen before last 1 hour:
+  No new templates detected in last 1 hour.
+
+============================================================
+

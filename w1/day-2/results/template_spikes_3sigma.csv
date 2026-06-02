@@ -1,0 +1,118 @@
+timestamp,template_id,count,mean,std,z_score,template
+2008-11-10 21:15:00,13,1,0.0033,0.0573,17.407,081110 211541 18 INFO dfs.DataNode: 10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010
+2008-11-11 09:15:00,21,1,0.0033,0.0573,17.407,081111 091733 19 INFO dfs.FSNamesystem: BLOCK* ask 10.251.126.5:50010 to delete blk_-9016567407076718172 blk_-8695715290502978219 blk_-7168328752988473716 blk_-4355192005224403537 blk_-3757501769775889193 blk_-154600013573668394 blk_167132135416677587 blk_2654596473569751784 blk_5202581916713319258
+2008-11-11 08:05:00,20,1,0.0033,0.0573,17.407,081111 080934 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode(s) 10.251.122.38:50010
+2008-11-11 06:50:00,19,1,0.0033,0.0573,17.407,081111 065303 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.10.213:50010 to delete blk_4029139044660806713 blk_-5471189807977280544 blk_6708643067868168687 blk_-500678958150296008 blk_-8597840983621849778 blk_-3610057702150392748 blk_-1709606535283888232 blk_-4154362211643572668 blk_-8892080524136798472 blk_5356427838869009345 blk_-6987238639050161133 blk_-5215128860160823363 blk_7186692462976470823 blk_-6538449588297475521 blk_-2165930080589343952 blk_-5524899010031625427 blk_6384439316405471171 blk_-2965258329365213675 blk_118950937507976810 blk_-1717088081766373300 blk_-3911466865418055820 blk_1237334407720045724 blk_-760015977981369567 blk_-6802007379650646616 blk_-7667535133893574689 blk_6865645438678864855 blk_4633996820313194570 blk_7225301266481603731 blk_-4930257130609958866 blk_-4124845864570823487 blk_4927011145115127531 blk_7234346856930822716 blk_7159969052744592746 blk_1296823600557793869 blk_2209319141644287774 blk_-622218131799806364 blk_-8154516246083521409 blk_4466433199471909449 blk_8406894133999850666 blk_991075908349619367 blk_-2081474832657208733 blk_-5573393775847919985 blk_2004177185950968695 blk_4041319486058127641 blk_6449230045010995668 blk_5978265573904271474 blk_-4813738732036414715 blk_4389340532803855247 blk_-857151863616763327 blk_-7200136644339435027 blk_-1454962873426270839 blk_-5012294311590635938 blk_7112727670634942639 blk_3335012758760643328 blk_3382627815322561484 blk_825124020036421636 blk_-8040559034239258688 blk_-5415591001139074826 blk_-1052513063506891954 blk_-1155882018729560343 blk_-5679835604685169040 blk_-4498808851217768984 blk_8345415947062862337 blk_8521655806854586696 blk_7602939593939794410 blk_-4833650023923869528 blk_7237730029042141635 blk_2860897425785746911 blk_-1937193099911148343 blk_5740615689780260922 blk_963252337613423037 blk_5537011318013544619 blk_2626057344048606017 blk_8296499240199635880 blk_7211071078501521087 blk_8823112510768971040 blk_-3366974935992288326 blk_-2947778702643296262 blk_7693891282153136044 blk_4644812717442758529 blk_-5724970555730638200 blk_-3039294462945223064 blk_-1729755380346651221 blk_-6448673813272428418 blk_-7724282460846954976 blk_2698691234887375588 blk_-4043525878322523713 blk_-5195120009388265 blk_8879208244602324204 blk_-5784376901556131897 blk_-5201149273969117873 blk_5253889604362640423 blk_7067050654303940677 blk_8992626816092659826 blk_-488462739843441981 blk_8543991617360374935 blk_1943146154560599630 blk_-9194660123773136535 blk_3351984198891394382 blk_-6759123807563555545
+2008-11-11 06:50:00,18,1,0.0033,0.0573,17.407,081111 065254 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.17.177:50010 to delete blk_-8570780307468499817 blk_-9122557405432088649 blk_-4393063808227796056 blk_8767569714374844347 blk_7079754042611867581 blk_7608961006114219538 blk_-5017273584996436939 blk_-6537833125980536955 blk_7610838808763810123 blk_3300803097775546532 blk_-5120750586032922592 blk_1577274266662884430 blk_765879159867598347 blk_-9076085976403711202 blk_-3198963348573340497 blk_-4645750029177277209 blk_-5136142986912961316 blk_5677959846373741243 blk_2107477892986152528 blk_-4235116161537008844 blk_6082535783543982566 blk_-4809870147222033236 blk_8818706925296961012 blk_-5203577173046267127 blk_189089569009261656 blk_446299976487589160 blk_-3916247521166632303 blk_-3324962406687427922 blk_-1807424528783081572 blk_-6858401049333055963 blk_6036564204960295926 blk_-8140723044408248078 blk_-3800132731140204959 blk_1716344083117307767 blk_-5194808114606613364 blk_-5473871016976323232 blk_2920934363167004552 blk_8736689095894369097 blk_-7642734632751940776 blk_3408482260833769309 blk_118013751374560901 blk_7963891081239759520 blk_3813114133944383323 blk_3042818489384932576 blk_-4570173726231458270 blk_-1564644006975920581 blk_338095650783321996 blk_3150135312641203550 blk_4285859645577726288 blk_3438772130782939627 blk_2634772258588877972 blk_-6795664812575964130 blk_3923069610304693233 blk_-1782996202120067721 blk_2004418049430157212 blk_1932147224007687756 blk_-582901062969027153 blk_5072240701440032119 blk_-7919006477393039068 blk_-7318022361288598312 blk_-6974693594143537436 blk_-5435767047126325206 blk_-5805500288959332434 blk_-7109885589081848850 blk_2161580591957523893 blk_7240227881194993860 blk_-8298405680648445349 blk_-4253026248821272215 blk_8377661448601579317 blk_8029153852899017155 blk_-8754388319080705916 blk_-7844092300527332901 blk_710178463364063355 blk_-5136849989188547884 blk_8393887138377503163 blk_-6950176077776664217 blk_-6488701068659548195 blk_2537458728254532453 blk_364441107933628577 blk_6207861897580168557 blk_8814943807366894581 blk_-4150682644311695471 blk_9174833667156726933 blk_649427218152856001 blk_-7403541028238011236 blk_-334982586592048773 blk_61908781908925992 blk_6385574357371832424 blk_-66376131060945541 blk_1372596948297458670 blk_-3389135155401857220 blk_-6035411221441929663 blk_-5127580069634421247 blk_-5685246533892022418 blk_4977937528993040451 blk_5680538862600094527 blk_-8378747462487962732 blk_425101290285860876 blk_6306622708327890839 blk_-1067866602168873257
+2008-11-09 21:35:00,8,3,0.0295,0.2346,12.6608,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 10:30:00,11,64,0.7344,5.0038,12.6436,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-10 22:15:00,14,1,0.0066,0.0808,12.2883,081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.18.114:50010 to delete blk_-5140072410813878235
+2008-11-10 21:25:00,14,1,0.0066,0.0808,12.2883,081110 212510 19 INFO dfs.FSNamesystem: BLOCK* ask 10.250.18.114:50010 to delete blk_-5140072410813878235
+2008-11-11 05:00:00,17,1,0.0066,0.0808,12.2883,081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_-4411589101766563890 src: /10.250.14.38:37362 dest: /10.250.14.38:50010 of size 67108864
+2008-11-11 08:10:00,17,1,0.0066,0.0808,12.2883,081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_-4411589101766563890 src: /10.250.14.38:37362 dest: /10.250.14.38:50010 of size 67108864
+2008-11-11 01:30:00,15,3,0.0393,0.2534,11.6815,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 08:05:00,12,6,0.1934,0.5666,10.2485,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 10:35:00,7,45,0.8623,4.607,9.5806,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-09 23:50:00,5,2,0.0262,0.213,9.2672,081109 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-09 21:20:00,5,2,0.0262,0.213,9.2672,081109 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-09 20:50:00,5,2,0.0262,0.213,9.2672,081109 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-09 21:45:00,8,2,0.0295,0.2346,8.3986,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 00:05:00,15,2,0.0393,0.2534,7.7359,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 01:45:00,10,4,0.1705,0.5102,7.5058,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 21:00:00,11,36,0.7344,5.0038,7.0478,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-11 04:45:00,7,32,0.8623,4.607,6.7588,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-10 21:05:00,7,31,0.8623,4.607,6.5417,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-10 08:25:00,9,4,0.2623,0.6361,5.8757,<*> <*> <*> WARN dfs.DataNode$DataXceiver: <*> exception while serving <*> to <*>
+2008-11-10 01:55:00,10,3,0.1705,0.5102,5.5458,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 07:45:00,16,3,0.1803,0.5164,5.4598,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 06:30:00,16,3,0.1803,0.5164,5.4598,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 08:45:00,16,3,0.1803,0.5164,5.4598,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 09:55:00,2,8,1.0295,1.3012,5.3568,<*> <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+2008-11-10 08:30:00,12,3,0.1934,0.5666,4.9535,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 08:20:00,12,3,0.1934,0.5666,4.9535,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 04:40:00,11,25,0.7344,5.0038,4.8495,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-11 07:55:00,7,23,0.8623,4.607,4.8052,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-11 02:30:00,7,22,0.8623,4.607,4.5882,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-11 09:00:00,7,22,0.8623,4.607,4.5882,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-09 20:55:00,5,1,0.0262,0.213,4.572,081109 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-09 23:40:00,5,1,0.0262,0.213,4.572,081109 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 08:10:00,9,3,0.2623,0.6361,4.3037,<*> <*> <*> WARN dfs.DataNode$DataXceiver: <*> exception while serving <*> to <*>
+2008-11-09 22:40:00,9,3,0.2623,0.6361,4.3037,<*> <*> <*> WARN dfs.DataNode$DataXceiver: <*> exception while serving <*> to <*>
+2008-11-10 08:15:00,9,3,0.2623,0.6361,4.3037,<*> <*> <*> WARN dfs.DataNode$DataXceiver: <*> exception while serving <*> to <*>
+2008-11-09 22:20:00,9,3,0.2623,0.6361,4.3037,<*> <*> <*> WARN dfs.DataNode$DataXceiver: <*> exception while serving <*> to <*>
+2008-11-11 02:30:00,11,22,0.7344,5.0038,4.2499,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-10 10:30:00,7,20,0.8623,4.607,4.1541,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-09 22:30:00,8,1,0.0295,0.2346,4.1364,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-09 22:05:00,8,1,0.0295,0.2346,4.1364,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-09 21:55:00,8,1,0.0295,0.2346,4.1364,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-09 21:40:00,8,1,0.0295,0.2346,4.1364,081109 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 08:55:00,11,21,0.7344,5.0038,4.0501,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-09 21:05:00,3,6,0.9574,1.2466,4.045,<*> <*> <*> INFO dfs.DataNode$PacketResponder: Received block <*> of size <*> from <*>
+2008-11-11 07:35:00,3,6,0.9574,1.2466,4.045,<*> <*> <*> INFO dfs.DataNode$PacketResponder: Received block <*> of size <*> from <*>
+2008-11-11 10:10:00,1,6,1.0197,1.3052,3.8157,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-11 08:40:00,1,6,1.0197,1.3052,3.8157,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-11 02:05:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 02:20:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 02:30:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 00:00:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 02:35:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 00:45:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-11 00:25:00,15,1,0.0393,0.2534,3.7903,081111 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 00:20:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-09 20:55:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 08:55:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 09:35:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 11:20:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 12:15:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 13:55:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 15:00:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 18:30:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 23:00:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-09 21:30:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 08:30:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 01:10:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 19:00:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-11 04:40:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-11 07:00:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-11 09:35:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 08:50:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 15:30:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 17:35:00,6,1,0.0656,0.2479,3.7687,<*> <*> 13 INFO dfs.DataBlockScanner: Verification succeeded for <*>
+2008-11-10 21:00:00,7,18,0.8623,4.607,3.7199,<*> <*> <*> INFO dfs.FSDataset: Deleting block <*> file <*>
+2008-11-10 22:05:00,11,19,0.7344,5.0038,3.6504,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-10 11:10:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 01:05:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 10:35:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 00:00:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 22:45:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 22:05:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 15:10:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 11:40:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 01:50:00,10,2,0.1705,0.5102,3.5858,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 06:15:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 06:55:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 07:00:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 09:25:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 08:30:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 09:45:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 05:30:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 03:20:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-11 09:10:00,16,2,0.1803,0.5164,3.5234,081111 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: <*> <*>
+2008-11-10 11:40:00,4,5,0.9574,1.1563,3.4962,<*> <*> <*> INFO dfs.DataNode$DataXceiver: Receiving block <*> src: <*> dest: <*>
+2008-11-10 14:35:00,4,5,0.9574,1.1563,3.4962,<*> <*> <*> INFO dfs.DataNode$DataXceiver: Receiving block <*> src: <*> dest: <*>
+2008-11-11 03:00:00,4,5,0.9574,1.1563,3.4962,<*> <*> <*> INFO dfs.DataNode$DataXceiver: Receiving block <*> src: <*> dest: <*>
+2008-11-11 06:50:00,11,17,0.7344,5.0038,3.2507,081110 <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+2008-11-10 11:00:00,3,5,0.9574,1.2466,3.2428,<*> <*> <*> INFO dfs.DataNode$PacketResponder: Received block <*> of size <*> from <*>
+2008-11-10 01:35:00,3,5,0.9574,1.2466,3.2428,<*> <*> <*> INFO dfs.DataNode$PacketResponder: Received block <*> of size <*> from <*>
+2008-11-10 07:05:00,12,2,0.1934,0.5666,3.1885,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 07:10:00,12,2,0.1934,0.5666,3.1885,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 07:00:00,12,2,0.1934,0.5666,3.1885,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 09:20:00,12,2,0.1934,0.5666,3.1885,081110 <*> <*> INFO dfs.DataNode$DataXceiver: <*> Served block <*> to <*>
+2008-11-10 15:05:00,2,5,1.0295,1.3012,3.0513,<*> <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+2008-11-10 12:30:00,2,5,1.0295,1.3012,3.0513,<*> <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+2008-11-11 03:00:00,2,5,1.0295,1.3012,3.0513,<*> <*> <*> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+2008-11-10 01:40:00,1,5,1.0197,1.3052,3.0496,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-10 23:05:00,1,5,1.0197,1.3052,3.0496,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-11 07:20:00,1,5,1.0197,1.3052,3.0496,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-11 02:55:00,1,5,1.0197,1.3052,3.0496,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
+2008-11-11 07:30:00,1,5,1.0197,1.3052,3.0496,<*> <*> <*> INFO dfs.DataNode$PacketResponder: PacketResponder <*> for block <*> terminating
