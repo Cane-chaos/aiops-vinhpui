@@ -1,0 +1,4 @@
+tier,services,log_gb_per_day,metric_events_sec,metric_storage,log_hot_storage,log_cold_storage,trace_storage,kafka,stream_processing,network,build_total,datadog_saas_estimate
+Small,10,50,100000,777.6,525.0,34.5,120.0,294.99,108.0,27.0,1887.09,7548.36
+Medium,100,500,1000000,7776.0,5250.0,345.0,1200.0,2949.91,324.0,270.0,18114.91,54344.74
+Large,1000,5000,10000000,77760.0,52500.0,3450.0,12000.0,29499.12,3240.0,2700.0,181149.12,452872.8
