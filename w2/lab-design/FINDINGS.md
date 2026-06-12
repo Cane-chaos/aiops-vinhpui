@@ -130,6 +130,6 @@ Datadog tự động generate interactive service map từ trace data với real
 | A6 Risk register — 6+ rows, specific mitigations, ownership | 5 | **5** | 8 risks. Mỗi risk có mitigation, detection signal, contingency plan. Risk matrix included |
 | A7 POC plan — component named, assumption stated, measurement | 5 | **5** | Loki POC 3 ngày. 10 benchmark queries. Success/failure criteria rõ ràng. 5 fallback scenarios |
 | FINDINGS — concrete, references own artifacts | 10 | **9** | 5 câu trả lời đầy đủ, reference incidents_history.json data, cost model numbers, component decisions. Deducted 1: câu 4 reference patterns có thể thêm links nếu có internet |
-| **TOTAL** | **100** | **94** | |
+| **TOTAL** | **100** | **90–94** | Self-review range; final score depends on benchmark validation (e.g., Loki query latency, VictoriaMetrics sizing under real load) |
 
-> **Tier: Excellent** (≥85).
+> **Tier: Excellent** (≥85). Self-review: 90–94 depending on benchmark validation.

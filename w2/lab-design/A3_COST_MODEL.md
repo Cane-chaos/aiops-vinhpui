@@ -140,6 +140,22 @@ Tracing add-on:              $300  ░ 0.7%
 > 
 > 💰 **Tiết kiệm $35,159/tháng = $421,908/năm.**
 
+### 3.3 Executive Breakdown — $6,841/tháng
+
+| Category | Components | Monthly Cost | % of Target | Chi tiết |
+|---|---|---|---|---|
+| **Compute** | VictoriaMetrics (3×c5.xl), Loki (3×c5.2xl), Tempo (2×c5.xl), Grafana HA (2×c5.lg), OTel GW (2×c5.lg) | **$1,612** | 23.6% | 12 EC2 instances, on-demand pricing |
+| **Storage** | EBS gp3 (metrics hot 500GB, log hot 245GB) + S3 Standard (log warm 1,050GB, trace 15GB, metrics LT 200GB) + S3-IA (log cold 3,150GB) | **$129** | 1.9% | Tiered retention: hot 7–14d EBS → warm 30d S3 → cold 90d S3-IA |
+| **Egress / Network** | Cross-AZ HA replication (~500GB/tháng), intra-AZ S3 = free | **$5** | 0.1% | Minimal — single-region, same-AZ optimised |
+| **On-Call (PagerDuty)** | PagerDuty Business, 30 users (giảm từ 65) | **$1,800** | 26.3% | Chỉ primary on-call rotation + team leads |
+| **Status Page** | Statuspage Business tier | **$290** | 4.2% | Giữ nguyên, không thay thế |
+| **Operational (人件費)** | 0.15 FTE SRE net-new + training amortised 6 tháng | **$3,000** | 43.9% | $2,000 ops + $1,000 training/docs |
+| **Misc** | Meta-monitoring (Grafana Cloud free), S3 backup versioning, TLS (Let's Encrypt) | **$5** | 0.1% | Negligible |
+| **GRAND TOTAL** | | **$6,841** | **100%** | |
+
+> [!IMPORTANT]
+> **Chi phí lớn nhất là Operational (44%)**, không phải infra. Nếu training ramp-up nhanh hơn 6 tháng, mục này sẽ giảm. Chi phí compute + storage thuần chỉ chiếm **$1,746 (25.5%)** — đây là structural advantage của OSS vs SaaS per-unit pricing.
+
 ---
 
 ## 4. Phân tích So sánh — Savings Waterfall
