@@ -1,0 +1,8 @@
+{"timestamp": "2026-06-18T04:54:11.464836", "event": "holdout_validation", "v2_precision": 0.0, "v2_recall": 0.0}
+{"timestamp": "2026-06-18T04:54:15.700787", "event": "promote_v2", "v2_version": "2", "v1_version": "1"}
+{"timestamp": "2026-06-18T04:54:20.184524", "event": "post_deploy_cycle", "cycle": 1, "precision": 0.4, "recall": 1.0, "v2": "2"}
+{"timestamp": "2026-06-18T04:54:20.238997", "event": "auto_rollback_v2_to_v1", "demoted_version": "2", "restored_version": "1", "trigger_precision": 0.4, "threshold": 0.65, "cycle": 1}
+{"timestamp": "2026-06-18T04:57:07.017264", "event": "holdout_validation", "v2_precision": 1.0, "v2_recall": 1.0, "actual_anomalies": 0, "fp": 0, "tp": 0}
+{"timestamp": "2026-06-18T04:57:12.600965", "event": "promote_v2", "v2_version": "3", "v1_version": "1"}
+{"timestamp": "2026-06-18T04:57:17.071794", "event": "post_deploy_cycle", "cycle": 1, "precision": 0.4, "recall": 1.0, "v2": "3"}
+{"timestamp": "2026-06-18T04:57:17.199689", "event": "auto_rollback_v2_to_v1", "demoted_version": "3", "restored_version": "1", "trigger_precision": 0.4, "threshold": 0.65, "cycle": 1}
